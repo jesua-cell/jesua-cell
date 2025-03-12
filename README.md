@@ -1,22 +1,26 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-&lt;Jesua Caicedo/&gt;
-  <img src="GIF/Hi.gif" width="40px" />
+  <img src="https://media.tenor.com/26024704/tenor.gif" width="24px">
+  &lt;Jesua Caicedo/&gt;
+  <img src="https://media.tenor.com/your-gif-id-here/tenor.gif" width="40px" />
 </h1>
 
-<br/>
-<br/>
-
--  I’m currently working on **GRANTHAGRA-'Android Application for Students.**
--  𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
--  𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Design or DevOps .**
--  𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/GovindSingh9447/GovindSingh9447/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
--  𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
--  𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU3cGVnZTJudzAwMHlrOWw4NXkwMms2cGtwdGxpajgxdG9nY281YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="300px" height="300px"/>
+</p>
 
 <br/>
 <br/>
 
+### Sobre mí:
+- **Actualmente trabajando en:** GRANTHAGRA - Aplicación Android para estudiantes.
+- **Actualmente aprendiendo:** GoLang (Programación en Go).
+- **Buscando colaborar en:** Proyectos de Android, Diseño o DevOps.
+- **Pregúntame sobre cualquier cosa** [aquí](https://github.com/GovindSingh9447/GovindSingh9447/issues/2). ¡Estoy feliz de ayudar!
+- **Pronombres:** Él / Su.
+- **Dato curioso:** La mejor parte del viaje es: *¡Que termina!*
+
+<br/>
+<br/>
 
 
 
